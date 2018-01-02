@@ -6,8 +6,8 @@ exports.mysql_connection = function()
   ({
     host: "localhost",
     database:"blueoptima_db",
-    user: "root",
-    password: "greatgrass"
+    user: "YOUR USERNAME HERE",
+    password: "YOUR PASSWORD HERE"
   });
 return con;
 }
